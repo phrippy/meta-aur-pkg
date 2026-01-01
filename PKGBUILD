@@ -1,0 +1,67 @@
+# Maintainer: Serhii Hordiienko <phrippy2@gmail.com
+
+pkgname=meta-aur-pkg
+_pkgname=meta-aur-pkg
+pkgver=20260101
+pkgrel=1
+pkgdesc="A meta package for aur packages"
+arch=('any')
+url="https://github.com/phrippy/meta-aur-pkg"
+license=('GPL')
+depends=(
+  '2048-curses'
+  '2048-qt'
+  '64gram-desktop-bin'
+  'bbe'
+  'brainfuck'
+  'brave-bin'
+  'caffeine-ng'
+  'ccze'
+  'crafty'
+  'crossover-overlay-bin'
+  'cursor-bin'
+  'dcfldd'
+  'fagram-bin'
+  'fet-timetabling-bin'
+  'fruit'
+  'gnu-netcat'
+  'google-chrome'
+  'hunspell-uk'
+  'icoextract'
+  'instaloader'
+  'jre-jetbrains'
+  'keep-presence'
+  'lmstudio'
+  'logseq-desktop-bin'
+  'masterpdfeditor'
+  'mythes-uk'
+  'neofetch'
+  'nestopia'
+  'ngrok'
+  'opera'
+  'par2cmdline-turbo'
+  'paru-bin'
+  'pgvector'
+  'pycharm'
+  'python-pyrogram'
+  'python-pyyaml-include'
+  'python-telethon'
+  'python-tgcrypto'
+  'rar'
+  'rubymine'
+  'schildichat-desktop-bin'
+  'squashfs-tools-ng'
+  'sysrq-enabler'
+  'teamviewer'
+  'timer'
+  'ttf-apple-emoji'
+  'vmtouch'
+  'vmware-workstation'
+  'vscodium-bin'
+  'wine32'
+  'winetricks-git'
+  'wlroots-git'
+  'xbanish'
+  'yay'
+  'zpaq'
+)
