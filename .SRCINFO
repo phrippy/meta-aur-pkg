@@ -1,7 +1,7 @@
 pkgbase = meta-aur-pkg
 	pkgdesc = A meta package for aur packages
 	pkgver = 20260101
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/phrippy/meta-aur-pkg
 	arch = any
 	license = GPL

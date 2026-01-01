@@ -3,7 +3,7 @@
 pkgname=meta-aur-pkg
 _pkgname=meta-aur-pkg
 pkgver=20260101
-pkgrel=1
+pkgrel=2
 pkgdesc="A meta package for aur packages"
 arch=('any')
 url="https://github.com/phrippy/meta-aur-pkg"
